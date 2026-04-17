@@ -22,4 +22,5 @@ Data categories:
 - gps tracking
 
 Who is the end user?? Lana
+
 What should the end user be able to do?? Keep track of all of the most important data from her business
